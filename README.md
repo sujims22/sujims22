@@ -24,7 +24,7 @@
 
    <!-- GitHub Stats -->
    <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=sujims22&show_icons=true" alt="Your GitHub Stats" />
+       <!-- <img src="https://github-readme-stats.vercel.app/api?username=sujims22&show_icons=true" alt="Your GitHub Stats" /> -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujims22&layout=compact" alt="Top Languages" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujims22" alt="GitHub Streak" />
       <img src="https://komarev.com/ghpvc/?username=sujims22" alt="Profile Views" />
