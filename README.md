@@ -12,8 +12,8 @@
 - 📖 Continuously learning and growing my skill set.
 
 ### 🌐 Portfolio & Contact
-- 🎨 [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](https://sujims22.github.io/sujitharavichandran/)
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujitharavichandran/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](https://sujims22.github.io/sujitharavichandran/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujitharavichandran/)
 
 ### ⚡ Fun Fact
 - 🍨 I love watching Anime and eating ice creams.
