@@ -8,14 +8,12 @@
 - 🔭 I’m currently a data science graduate student @ University of Houston.
 - 🌱 Passionate about exploring new techniques and tools in the field of data science.
 - 📖 Continuously learning and growing my skill set.
+- ⚡ Fun Fact - I love watching Anime and eating ice creams.
 
 ### 🌐 Portfolio & Contact
 [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](https://sujims22.github.io/sujitharavichandran/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujitharavichandran/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sravich8@cougarnet.uh.edu)
-
-### ⚡ Fun Fact
-- 🍨 I love watching Anime and eating ice creams.
 
 ---
 ### My GitHub Stats 📊
