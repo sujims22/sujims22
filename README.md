@@ -1,10 +1,8 @@
-<div align="center">
+<div align="right">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&width=720&lines=%F0%9F%91%8B+Hello%2C+I+am+Sujitha+Ravichandran)](https://git.io/typing-svg)
 
 </div>
-
----
 
 ### 👩‍💻 About Me
 - 🔭 I’m currently a data science graduate student @ University of Houston.
@@ -20,10 +18,8 @@
 - 🍨 I love watching Anime and eating ice creams.
 
 ---
+### My GitHub Stats 📊
 <div align="center">
-   <!-- Other content -->
-
-   <!-- GitHub Stats -->
    <div>
        <!-- <img src="https://github-readme-stats.vercel.app/api?username=sujims22&show_icons=true" alt="Your GitHub Stats" /> -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujims22&layout=compact" alt="Top Languages" />
