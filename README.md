@@ -1,5 +1,5 @@
 <div>
-  <h3>Hello, I am Sujitha Ravichandran</h3>
+  <h1>Hello, I am Sujitha Ravichandran</h1>
 </div>
 
 ### 👩‍💻 About Me
