@@ -20,9 +20,10 @@
 <!-- Optional: Add a section for featured projects -->
 ### 📌 Pinned Repositories
 <!-- Replace with your repository URLs -->
-- [Project 1](https://github.com/sujims22/project-1)
-- [Project 2](https://github.com/sujims22/project-2)
-- [Project 3](https://github.com/sujims22/project-3)
+- [Project 1 : Network Anomaly Detection Toolkit](https://github.com/sujims22/Network-anamoly-detection)
+- [Project 2 : Facial Landmark Analysis Suite](https://github.com/sujims22/Facial-Landmark-Analysis)
+- [Project 3 : Disaster Tweet NLP Processor](https://github.com/sujims22/Natural-Language-Processing-with-Disaster-Tweets)
+- [Project 4 : My Data Science Portfolio](https://github.com/sujims22/sujitharavichandran)
 
 ---
   
