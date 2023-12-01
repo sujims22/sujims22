@@ -16,6 +16,16 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sravich8@cougarnet.uh.edu)
 
 ---
+
+<!-- Optional: Add a section for featured projects -->
+### 📌 Pinned Repositories
+<!-- Replace with your repository URLs -->
+- [Project 1](https://github.com/sujims22/project-1)
+- [Project 2](https://github.com/sujims22/project-2)
+- [Project 3](https://github.com/sujims22/project-3)
+
+---
+  
 ### My GitHub Stats 📊
 <div align="center">
    <div>
