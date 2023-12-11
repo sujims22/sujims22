@@ -5,16 +5,6 @@
 - 📫 How to reach me **sravich8@cougarnet.uh.edu**
 
 ---
-💻 Skills
----
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-
-
-[![My Skills](https://skillicons.dev/icons?i=python,r,mysql,tensorflow,pytorch,git,kubernetes,docker,c,linux,aws,azure,&perline=3)](https://skillicons.dev)
-
-
-
----
 ## 💻 Skills
 ---
 <div style="display: flex; align-items: center; justify-content: space-between;">
