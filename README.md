@@ -32,6 +32,18 @@
     </a>
 </div>
 
+<div align="center" style="background-color:#0D1117;">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujims22&layout=compact&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujims22&background=0D1117&stroke=c9d1d9&ring=8A2BE2&fire=8A2BE2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8A2BE2&sideLabels=8A2BE2" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 <h3 align="left">Connect with me:</h3>
