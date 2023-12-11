@@ -27,14 +27,6 @@
   </div>
 </div>
 
-<div align="center">
-  <div style="background-color:#0D1117;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujims22&layout=compact&bg_color=ffffff&title_color=8A2BE2&text_color=32CD32" alt="Top Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujims22&background=ffffff&stroke=32CD32&ring=8A2BE2&fire=8A2BE2&currStreakNum=32CD32&sideNums=32CD32&currStreakLabel=8A2BE2&sideLabels=8A2BE2" alt="GitHub Streak" />
-    <img src="https://komarev.com/ghpvc/?username=sujims22&color=32CD32" alt="Profile Views" />
-  </div>
-</div>
-
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
