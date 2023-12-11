@@ -6,21 +6,12 @@
 - 🌐 Visit my [Portfolio](#add-your-portfolio-link-here) for more about my work and projects
 - 📫 How to reach me **sravich8@cougarnet.uh.edu**
 
-
----
-💻 Skills
----
-<p align="left"> 
-<!-- Add relevant skills here, similar to the previous format, but with skills relevant to data science -->
-</p>
----
 ---
 💻 Skills
 ---
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-    <!-- Additional Skills -->
     <img src="https://skillicons.dev/icons?i=python,r,sql,tensorflow,pytorch,pandas,numpy,jupyter" />
     <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,ml" />
   </a>
