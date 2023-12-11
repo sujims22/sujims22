@@ -13,6 +13,36 @@
 <p align="left"> 
 <!-- Add relevant skills here, similar to the previous format, but with skills relevant to data science -->
 </p>
+---
+💻 Skills
+---
+<div align="left" style="background-color:#0D1117;">
+  <a href="#">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img alt="Scikit-Learn" src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  </a>
+  <!-- Add more skills as needed -->
+</div>
 
 ---
 :chart_with_upwards_trend: Github stats 
