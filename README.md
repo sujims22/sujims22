@@ -18,6 +18,15 @@
 ---
 :chart_with_upwards_trend: Github stats 
 ---
+
+<div align="center">
+  <div style="background-color:#0D1117;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujims22&layout=compact&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujims22&background=0D1117&stroke=c9d1d9&ring=8A2BE2&fire=8A2BE2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8A2BE2&sideLabels=8A2BE2" alt="GitHub Streak" />
+    <img src="https://komarev.com/ghpvc/?username=sujims22&color=8A2BE2" alt="Profile Views" />
+  </div>
+</div>
+
 <div align="center">
   <div style="background-color:#0D1117;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujims22&layout=compact&bg_color=ffffff&title_color=8A2BE2&text_color=32CD32" alt="Top Languages" />
