@@ -12,7 +12,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-    <img src="https://skillicons.dev/icons?i=python,r,sql,tensorflow,pytorch,pandas,numpy,jupyter" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow,pytorch,pandas,numpy,jupyter" />
     <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,ml" />
   </a>
 </p>
