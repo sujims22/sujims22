@@ -34,9 +34,9 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sujims22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujims22" height="30" width="40" /></a>
+<a href="https://twitter.com/sujitharav78067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujims22" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sujitharavichandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujitharavichandran" height="30" width="40" /></a>
-<a href="https://instagram.com/sujitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujitha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sujitha._.ravichandran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujitha" height="30" width="40" /></a>
 </p>
 
 
