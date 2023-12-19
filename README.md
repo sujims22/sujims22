@@ -1,24 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=8A2BE2&lines=Hello,+my+name+is+Sujitha+Ravichandran.;I'm+a+data+science+graduate+student+at+University+of+Houston.)](https://git.io/typing-svg)
----
 - 👩‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/sujims22?tab=repositories)
 - 🌐 Visit my [Portfolio](https://sujims22.github.io/sujitharavichandran/) for more about my work and projects
 - 📫 How to reach me **sravich8@cougarnet.uh.edu**
 
----
+
 ## 💻 Skills
----
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
   </div>
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,mysql,c,cs,html,css,Keras,tensorflow,pytorch,streamlit,fastapi,git,docker,linux,aws,azure,&perline=3" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=python,mysql,c,cs,html,css,tensorflow,pytorch,git,docker,linux,aws,azure,&perline=3" alt="My Skills" />
     </a>
   </div
 </div>
 
----
+
 
 :chart_with_upwards_trend: Github stats 
 ---
