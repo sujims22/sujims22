@@ -13,9 +13,9 @@
   </div>
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow,pytorch,git,kubernetes,docker,c,linux,aws,azure,&perline=3" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=python,mysql,c,cs,html,css,Keras,tensorflow,pytorch,streamlit,fastapi,git,docker,linux,aws,azure,&perline=3" alt="My Skills" />
     </a>
-  </div>
+  </div
 </div>
 
 ---
