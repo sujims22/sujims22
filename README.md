@@ -4,7 +4,7 @@
 - 📫 How to reach me **sravich8@cougarnet.uh.edu**
 
 
-## 💻 Skills
+## 💻 SKILLS
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
@@ -18,7 +18,7 @@
 
 
 
-:chart_with_upwards_trend: Github stats 
+:chart_with_upwards_trend: GITHUB STATS
 ---
 
 <div align="center" style="background-color:#0D1117;">
