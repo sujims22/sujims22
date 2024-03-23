@@ -1,18 +1,28 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=8A2BE2&lines=Hello,+my+name+is+Sujitha+Ravichandran.;I'm+a+data+science+graduate+student+at+University+of+Houston.)](https://git.io/typing-svg)
-- 👩‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/sujims22?tab=repositories)
-- 🌐 Visit my [Portfolio](https://sujims22.github.io/sujitharavichandran/) for more about my work and projects
-- 📫 How to reach me **sravich8@cougarnet.uh.edu**
+### Hey, I'm Sujitha 👋🏽  
 
+I'm a data science graduate student at University of Houston.
 
-## 💻 SKILLS
-<div style="display: flex; align-items: center; justify-content: space-between;">
- 
-  <div>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,mysql,c,cs,html,css,tensorflow,pytorch,git,docker,linux,aws,azure,&perline=3" alt="My Skills" />
-    </a>
-  </div
-</div>
+- All of my projects are available at [My GitHub Repositories](https://github.com/sujims22?tab=repositories)
+- Check out my [website](https://sujims22.github.io/sujitharavichandran/) to learn more about me.
+- How to reach me **sravich8@cougarnet.uh.edu**
+
+## 📦 Toolbox
+
+**Programming Languages:** `SQL` `Python` `C/C++` `PHP` `HTML` `CSS` `CUDA`
+
+**Version Control:** `Git`
+
+**Image Processing:** `OpenCV`
+
+**Data Visualization:** `Tableau` `Power BI`
+
+**Containerization:** `Docker`
+
+**Web Frameworks:** `Streamlit` `FastAPI` `Flask`
+
+**Machine Learning Frameworks:** `NumPy` `Pandas` `Scikit-Learn` `Keras` `PyTorch` `TensorFlow`
+
+**Big Data and Cloud:** `Hadoop` `Apache Spark` `Amazon Web Services (AWS)` `Microsoft Azure` `Google Cloud Platform (GCP)`
 
 
 
