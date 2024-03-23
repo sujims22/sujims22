@@ -25,7 +25,7 @@ I'm a data science graduate student at University of Houston.
 
 :chart_with_upwards_trend: Github Status
 
-<div align="center" style="background-color:#FFFFFF;">
+<div align="center" style="background-color:##D2B48C;">
   <table>
     <tr>
       <td>
