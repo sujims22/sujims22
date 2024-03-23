@@ -1,7 +1,7 @@
 ### Hey, I'm Sujitha 👋🏽  
 <div align="right">
   
-  <img src="https://cdn.sanity.io/images/tlr8oxjg/production/319736499c3451e5bf944e8ea5843714df354e6a-1456x816.png?w=3840&q=80&fit=clip&auto=format" alt="Data Science Image" width="200" height="200" style="margin-top: -100px;">
+  <img src="https://cdn.sanity.io/images/tlr8oxjg/production/319736499c3451e5bf944e8ea5843714df354e6a-1456x816.png?w=3840&q=80&fit=clip&auto=format" alt="Data Science Image" width="600" height="200">
 </div>
 I'm a data science graduate student at University of Houston.
 
