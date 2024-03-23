@@ -25,19 +25,18 @@ I'm a data science graduate student at University of Houston.
 
 :chart_with_upwards_trend: Github Status
 
-<div align="center" style="background-color:#D2B48C;">
+<div align="center" style="background-color:#F4ECE3;">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujims22&layout=compact&bg_color=D2B48C&title_color=8FBC8F&text_color=000000" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujims22&layout=compact&bg_color=F4ECE3&title_color=6B8E23&text_color=000000" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujims22&background=D2B48C&stroke=000000&ring=8FBC8F&fire=8FBC8F&currStreakNum=000000&sideNums=000000&currStreakLabel=8FBC8F&sideLabels=8FBC8F" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujims22&background=F4ECE3&stroke=000000&ring=6B8E23&fire=6B8E23&currStreakNum=000000&sideNums=000000&currStreakLabel=6B8E23&sideLabels=6B8E23" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
-
 
 
 ## 🫂 Connect with me 
