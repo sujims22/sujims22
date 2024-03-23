@@ -1,6 +1,7 @@
 ### Hey, I'm Sujitha 👋🏽  
 <div align="right">
-  <img src="YOUR_IMAGE_URL_HERE" width="100" style="margin-top: -100px;">
+  
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkarriere.fresenius.de%2Fen-US%2Fdigital-careers%2Ffocus-on-data-science&psig=AOvVaw1WXVJ7AdsGRRsAC8OQZ4n0&ust=1711313866884000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiq9oyji4UDFQAAAAAdAAAAABAE" alt="Data Science Image" width="200" height="200" style="margin-top: -100px;">
 </div>
 I'm a data science graduate student at University of Houston.
 
