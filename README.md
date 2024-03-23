@@ -1,5 +1,7 @@
 ### Hey, I'm Sujitha 👋🏽  
-
+<div align="right">
+  <img src="YOUR_IMAGE_URL_HERE" width="100" style="margin-top: -100px;">
+</div>
 I'm a data science graduate student at University of Houston.
 
 - All of my projects are available at [My GitHub Repositories](https://github.com/sujims22?tab=repositories)
