@@ -10,23 +10,20 @@ I'm a data science graduate student at University of Houston.
 
 **Programming Languages:** `SQL` `Python` `C/C++` `PHP` `HTML` `CSS` `CUDA`
 
-**Version Control:** `Git`
-
-**Image Processing:** `OpenCV`
-
-**Data Visualization:** `Tableau` `Power BI`
-
-**Containerization:** `Docker`
-
-**Web Frameworks:** `Streamlit` `FastAPI` `Flask`
-
 **Machine Learning Frameworks:** `NumPy` `Pandas` `Scikit-Learn` `Keras` `PyTorch` `TensorFlow`
 
 **Big Data and Cloud:** `Hadoop` `Apache Spark` `Amazon Web Services (AWS)` `Microsoft Azure` `Google Cloud Platform (GCP)`
 
+**Data Visualization:** `Tableau` `Power BI`
+
+**Tools:** `Git` `OpenCV` `Docker`
+
+**Web Frameworks:** `Streamlit` `FastAPI` `Flask`
 
 
-:chart_with_upwards_trend: GITHUB STATS
+
+
+:chart_with_upwards_trend: ## 📦 Github Status
 ---
 
 <div align="center" style="background-color:#0D1117;">
