@@ -23,7 +23,7 @@ I'm a data science graduate student at University of Houston.
 
 
 
-:chart_with_upwards_trend:  📈 Github Status
+:chart_with_upwards_trend: 📈 Github Status
 ---
 
 <div align="center" style="background-color:#0D1117;">
@@ -40,7 +40,7 @@ I'm a data science graduate student at University of Houston.
 </div>
 
 ---
-## CONNECT WITH ME
+## 🫂 Connect with me 
 <p align="left">
 <a href="https://twitter.com/sujitharav78067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujims22" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sujitharavichandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujitharavichandran" height="30" width="40" /></a>
