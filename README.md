@@ -23,16 +23,16 @@ I'm a data science graduate student at University of Houston.
 
 
 
-:chart_with_upwards_trend: 📈 Github Status
+:chart_with_upwards_trend: ## 📈 Github Status
 
-<div align="center" style="background-color:#0D1117;">
+<div align="center" style="background-color:#FFFFFF;">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujims22&layout=compact&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujims22&layout=compact&bg_color=FFFFFF&title_color=8FBC8F&text_color=000000" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujims22&background=0D1117&stroke=c9d1d9&ring=8A2BE2&fire=8A2BE2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8A2BE2&sideLabels=8A2BE2" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujims22&background=FFFFFF&stroke=000000&ring=8FBC8F&fire=8FBC8F&currStreakNum=000000&sideNums=000000&currStreakLabel=8FBC8F&sideLabels=8FBC8F" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
