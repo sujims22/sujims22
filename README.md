@@ -9,23 +9,6 @@ I'm a data science graduate student at University of Houston.
 - Check out my [website](https://sujims22.github.io/sujitharavichandran/) to learn more about me.
 - How to reach me **sravich8@cougarnet.uh.edu**
 
-## 📦 Toolbox
-
-**Programming Languages:** `SQL` `Python` `C/C++` `PHP` `HTML` `CSS` `CUDA`
-
-**Machine Learning Frameworks:** `NumPy` `Pandas` `Scikit-Learn` `Keras` `PyTorch` `TensorFlow`
-
-**Big Data and Cloud:** `Hadoop` `Apache Spark` `Amazon Web Services (AWS)` `Microsoft Azure` `Google Cloud Platform (GCP)`
-
-**Data Visualization:** `Tableau` `Power BI`
-
-**Tools:** `Git` `OpenCV` `Docker`
-
-**Web Frameworks:** `Streamlit` `FastAPI` `Flask`
-
-
-
-
 :chart_with_upwards_trend: Github Status
 
 <div align="center" style="background-color:#F4ECE3;">
