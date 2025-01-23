@@ -4,7 +4,7 @@ I'm a data science graduate student at University of Houston.
 
 - All of my projects are available at [My GitHub Repositories](https://github.com/sujims22?tab=repositories)
 - Check out my [website](https://sujims22.github.io/sujitharavichandran/) to learn more about me.
-- How to reach me **sravich8@cougarnet.uh.edu**
+- How to reach me **sujitharavichandran02@gmail.com**
 
 :chart_with_upwards_trend: Github Status
 
