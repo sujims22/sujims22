@@ -1,6 +1,6 @@
 ### Hey, I'm Sujitha 👋🏽  
 
-I'm a data science graduate student at University of Houston.
+
 
 - All of my projects are available at [My GitHub Repositories](https://github.com/sujims22?tab=repositories)
 - Check out my [website](https://sujims22.github.io/sujitharavichandran/) to learn more about me.
